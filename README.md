@@ -22,7 +22,7 @@ I am a passionate beginner software developer learning coding, Git, and open-sou
 
 ## 📈 GitHub Stats
 
-bb
+https://github.com/ernhan623
 
 ---
 
