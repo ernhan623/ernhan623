@@ -9,7 +9,7 @@ I am a passionate beginner software developer learning coding, Git, and open-sou
 - 🔭 **Currently learning:** Git, GitHub, Python, and Web Development
 - 🎯 **Goals:** Build cool open-source projects and expand my developer skills
 - 💬 **Ask me about:** Beginners' coding topics or projects I'm working on
-- 📫 **How to reach me:** `teo.ernhan@example.com`
+- 📫 **How to reach me:** `ernhanteo2@gmail.com`
 
 ---
 
@@ -22,7 +22,7 @@ I am a passionate beginner software developer learning coding, Git, and open-sou
 
 ## 📈 GitHub Stats
 
-![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+bb
 
 ---
 
